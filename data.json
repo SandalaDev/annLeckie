@@ -1,0 +1,66 @@
+{
+  "posts": [
+    {
+      "id": "seed-1",
+      "title": "Why Payload CMS Won Me Over",
+      "topic": "Code",
+      "contentType": "Case Study",
+      "status": "drafting",
+      "scheduledDate": null,
+      "subjects": [
+        "payload",
+        "cms",
+        "nextjs"
+      ],
+      "notes": "Walk through the decision process vs Strapi/Sanity. Include config snippets.",
+      "createdAt": "2026-07-05T10:54:46.700Z",
+      "updatedAt": "2026-07-05T10:54:46.700Z"
+    },
+    {
+      "id": "seed-2",
+      "title": "The Quiet Death of the Mid-Budget Movie",
+      "topic": "Movies",
+      "contentType": "Article",
+      "status": "idea",
+      "scheduledDate": null,
+      "subjects": [
+        "hollywood",
+        "streaming",
+        "economics of film"
+      ],
+      "notes": "Long-form. Where did the $40M drama go?",
+      "createdAt": "2026-07-05T10:54:46.700Z",
+      "updatedAt": "2026-07-05T10:54:46.700Z"
+    },
+    {
+      "id": "seed-3",
+      "title": "Six TV Finales That Stuck the Landing",
+      "topic": "TV",
+      "contentType": "Listicle",
+      "status": "idea",
+      "scheduledDate": null,
+      "subjects": [
+        "finales",
+        "prestige tv"
+      ],
+      "notes": "",
+      "createdAt": "2026-07-05T10:54:46.700Z",
+      "updatedAt": "2026-07-05T10:54:46.701Z"
+    },
+    {
+      "id": "3a33d11d-30d6-49c4-a667-d4105bbc5d18",
+      "title": "Interview: A Referee on What Fans Never See",
+      "topic": "Sports",
+      "contentType": "Interview",
+      "status": "scheduled",
+      "scheduledDate": "2026-07-15",
+      "subjects": [
+        "officiating",
+        "nba"
+      ],
+      "notes": "",
+      "createdAt": "2026-07-05T10:56:51.272Z",
+      "updatedAt": "2026-07-05T10:56:51.272Z"
+    }
+  ]
+}
