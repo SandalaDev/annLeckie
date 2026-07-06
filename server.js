@@ -69,7 +69,7 @@ function saveData(data) {
   fs.renameSync(tmp, DATA_FILE);
 }
 
-const TOPICS = ['Code', 'Tech', 'Opinion', 'Sports', 'TV', 'Movies'];
+const TOPICS = ['Code', 'Tech', 'Opinion', 'Sports', 'TV', 'Movies', 'Literature'];
 const CONTENT_TYPES = ['Article', 'Listicle', 'Review', 'News', 'Case Study', 'Interview'];
 const STATUSES = ['idea', 'drafting', 'scheduled', 'published'];
 

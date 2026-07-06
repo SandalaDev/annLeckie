@@ -25,6 +25,7 @@
     --c-sports: #059669;
     --c-tv: #db2777;
     --c-movies: #7c3aed;
+    --c-literature: #a16207;
 
     --serif: 'Playfair Display', Georgia, 'Times New Roman', serif;
     --sans: 'Inter', -apple-system, 'Segoe UI', Roboto, sans-serif;
@@ -650,7 +651,7 @@
 <div id="toast"></div>
 
 <script>
-const TOPICS = ['Code', 'Tech', 'Opinion', 'Sports', 'TV', 'Movies'];
+const TOPICS = ['Code', 'Tech', 'Opinion', 'Sports', 'TV', 'Movies', 'Literature'];
 const TYPES = ['Article', 'Listicle', 'Review', 'News', 'Case Study', 'Interview'];
 const STATUSES = [
   { key: 'idea',      label: 'Ideas' },
@@ -660,7 +661,7 @@ const STATUSES = [
 ];
 const TOPIC_COLORS = {
   'Code': 'var(--c-code)', 'Tech': 'var(--c-tech)', 'Opinion': 'var(--c-opinion)',
-  'Sports': 'var(--c-sports)', 'TV': 'var(--c-tv)', 'Movies': 'var(--c-movies)'
+  'Sports': 'var(--c-sports)', 'TV': 'var(--c-tv)', 'Movies': 'var(--c-movies)', 'Literature': 'var(--c-literature)'
 };
 
 let posts = [];
